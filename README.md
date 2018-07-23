@@ -1,6 +1,9 @@
 # 8-Queen-problem-simulated-annealing
-Coursework done for 4th year Artificial Intelligence module.
-Currently the answers are obtained via x,y coordinate system. An instance of obtained answer is shown below.
+## Coursework done for 4th year Artificial Intelligence module.
+
+Currently the answers are obtained via x,y coordinate system. 
+
+### An instance of obtained answer is shown below.
 
 
 
@@ -30,7 +33,7 @@ Solution: Successfully optimized locations for 8 Queens
 
 
 
-It will be futher improved as follows;
+### It will be futher improved as follows;
 
 
 Generated Board:
@@ -91,4 +94,4 @@ Solution: Successfully optimized locations for 8 Queens
 
 
 
-It also outputs "Solution: Unsuccessful" when the algorithm is unable to generate a solution.
+### It also outputs "Solution: Unsuccessful" when the algorithm is unable to generate a solution.
