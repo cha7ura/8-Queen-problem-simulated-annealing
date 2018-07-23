@@ -6,9 +6,7 @@ Currently the answers are obtained via x,y coordinate system. An instance of obt
 Board: randomly generated (x,y) locations for the board
 
 (0, 0)
-
 (1, 0)
-
 (2, 4)
 
 (3, 4)
