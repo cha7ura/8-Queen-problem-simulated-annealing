@@ -95,3 +95,5 @@ Solution: Successfully optimized locations for 8 Queens
 
 
 ### It also outputs "Solution: Unsuccessful" when the algorithm is unable to generate a solution.
+
+#The code has been refined to show the plot in the final code.
