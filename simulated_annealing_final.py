@@ -76,7 +76,7 @@ class SimulatedAnnealing:
                 break
 
         if solutionFound == False:
-            print("Solution: Unsuccessful")
+            print("\nSolution: Unsuccessful")
 
 if __name__ == '__main__':
     board = Board()
